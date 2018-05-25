@@ -1,6 +1,6 @@
 # 培公笔记 #
 
-## 开发的科学 ##
+## Part I 开发的科学 ##
 
 - [前言](README.md)
 - [科学](chapter.1.1/README.md)
@@ -13,7 +13,7 @@
 - [项目管理](chapter.1.6/README.md)
 - [团队组织](chapter.1.7/README.md)
 
-## 札记 ##
+## Part II 札记 ##
 
 - [价格](chapter.2.1/README.md)
 - [中国共产党的基本教义](chapter.2.2/README.md)

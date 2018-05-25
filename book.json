@@ -18,8 +18,8 @@
     "variables": {},
     "links": {
         "sidebar": {
-            "周培公博客": "http://www.peigong.net",
-            "培公诗抄": "http://www.peigong.net/poem/"
+            "博客": "http://www.peigong.net",
+            "诗抄": "http://www.peigong.net/poem/"
         },
         "sharing": {
             "google": null,
