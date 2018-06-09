@@ -15,6 +15,8 @@
 
 - Part II 札记
 
-	- [价格](chapter.2.1/README.md)
+	- [价格笔记](chapter.2.1/README.md)
 	- [TG的基本教义](chapter.2.2/README.md)
 	- [抽象思考的精神](chapter.2.3/README.md)
+	- [西游记笔记](chapter.2.4/README.md)
+	- [科学笔记](chapter.2.5/README.md)
