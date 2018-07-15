@@ -23,6 +23,7 @@
 		- [胡锦涛的影响](chapter.2.2/section.2.2.6.md)
 		- [新时代思想](chapter.2.2/section.2.2.7.md)
 		- [新时代三十讲](chapter.2.2/section.2.2.8.md)
+		- [新时代的教育](chapter.2.2/section.2.2.9.md)
 	- [思想的尺度框架](chapter.2.3/README.md)
 		- [抽象思考的精神](chapter.2.3/section.2.3.1.md)
 	- [西游记笔记](chapter.2.4/README.md)
