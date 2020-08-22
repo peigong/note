@@ -27,3 +27,4 @@
 		- [抽象思考的精神](chapter.2.3/section.2.3.1.md)
 	- [西游记笔记](chapter.2.4/README.md)
 	- [科学笔记](chapter.2.5/README.md)
+	- [筹码分布笔记](chapter.2.6/README.md)
