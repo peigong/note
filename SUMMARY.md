@@ -8,12 +8,14 @@
 	- [单兵素质](chapter.1.3/README.md)
 	- [架构师](chapter.1.4/README.md)
 	- [质量的观测](chapter.1.5/README.md)
+		- [质量免费笔记](chapter.1.5/section.1.5.1.md)
 	- [项目管理](chapter.1.6/README.md)
 	- [团队组织](chapter.1.7/README.md)
 
 - Part II 札记
 
 	- [经济学笔记](chapter.2.1/README.md)
+		- [新制度经济学批判](chapter.2.1/section.2.1.1.md)
 	- [TG的基本教义](chapter.2.2/README.md)
 		- [马克思的影响](chapter.2.2/section.2.2.1.md)
 		- [列宁的影响](chapter.2.2/section.2.2.2.md)
@@ -27,4 +29,5 @@
 		- [抽象思考的精神](chapter.2.3/section.2.3.1.md)
 	- [西游记笔记](chapter.2.4/README.md)
 	- [科学笔记](chapter.2.5/README.md)
-	- [筹码分布笔记](chapter.2.6/README.md)
+	- [证券笔记](chapter.2.6/README.md)
+		- [筹码分布笔记](chapter.2.6/section.2.6.1.md)
